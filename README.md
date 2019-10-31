@@ -5,9 +5,9 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 
 ![](https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png)
 
-## Features
+## Фичи
 
-* Notes can be arranged into arbitrarily deep tree. Single note can be placed into multiple places in the tree (see [cloning](https://github.com/zadam/trilium/wiki/Cloning-notes))
+* Заметки могут быть организованы в произвольно глубокое дерево. Single note can be placed into multiple places in the tree (see [cloning](https://github.com/zadam/trilium/wiki/Cloning-notes))
 * Rich WYSIWYG note editing including e.g. tables and images with markdown [autoformat](https://github.com/zadam/trilium/wiki/Text-editor#autoformat)
 * Support for editing [notes with source code](https://github.com/zadam/trilium/wiki/Code-notes), including syntax highlighting
 * Fast and easy [navigation between notes](https://github.com/zadam/trilium/wiki/Note-navigation), full text search and [note hoisting](https://github.com/zadam/trilium/wiki/Note-hoisting)
@@ -22,7 +22,7 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 * [Night theme](https://github.com/zadam/trilium/wiki/Themes)
 * [Evernote](https://github.com/zadam/trilium/wiki/Evernote-import) and [Markdown import & export](https://github.com/zadam/trilium/wiki/Markdown)
 
-## Builds
+## Сборка
 
 Trilium is provided as either desktop application (Linux, Windows, Mac) or web application hosted on your server (Linux).
 
@@ -30,7 +30,7 @@ Trilium is provided as either desktop application (Linux, Windows, Mac) or web a
 * If you want to install Trilium on server, follow [this page](https://github.com/zadam/trilium/wiki/Server-installation).
   * Currently only recent Chrome and Firefox are supported (tested) browsers.
 
-## Documentation
+## Документация
 
 [See wiki for complete list of documentation pages.](https://github.com/zadam/trilium/wiki/)
 
@@ -38,11 +38,11 @@ You can also read [Patterns of personal knowledge base](https://github.com/zadam
 
 ## Contribute
 
-Use a browser based dev environment
+Используйте основанное на браузере окружение разработки
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zadam/trilium)
 
-Or clone locally and run
+Или локально клонируй и запусти
 ```
 npm install
 npm run start
